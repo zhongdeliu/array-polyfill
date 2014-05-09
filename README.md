@@ -17,15 +17,18 @@ Currently available as single files or a combined file:
 
 Installation
 ---------
+
 Clone github repository:
 `git clone https://github.com/zhongdeliu/array-polyfill.git`
 
-Include per script tag, *before* your scripts:
+via Bower:
+`bower install array-polyfill` (if needed, use --save-dev parameter)
+
+
+Then include per script tag, *before* your scripts:
 `<script type="text/javascript" src="[path-to-file]/array-polyfill.min.js"></script>`
 
 
 License
 ---------
 Combined file is distributed under MIT License
-
-
