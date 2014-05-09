@@ -21,7 +21,7 @@ Installation
 Clone github repository:
 `git clone https://github.com/zhongdeliu/array-polyfill.git`
 
-via Bower:
+or via Bower:
 `bower install array-polyfill` (if needed, use --save-dev parameter)
 
 
