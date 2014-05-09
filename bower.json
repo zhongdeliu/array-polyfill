@@ -1,0 +1,17 @@
+{
+  "name": "array polyfill",
+  "main": "array-polyfill.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zhongdeliu/array-polyfill",
+  "authors": [
+    "zhongdeliu <zhongdeliu@googlemail.com>"
+  ],
+  "description": "Array polyfill for (older) browsers. Implementation taken from MDN reference",
+  "keywords": [
+    "array",
+    "polyfill",
+    "ecmascript5",
+    "internetexplorer8"
+  ],
+  "license": "MIT or PublicDomain"
+}
