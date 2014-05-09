@@ -1,7 +1,7 @@
 {
   "name": "array polyfill",
   "main": "array-polyfill.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/zhongdeliu/array-polyfill",
   "authors": [
     "zhongdeliu <zhongdeliu@googlemail.com>"
