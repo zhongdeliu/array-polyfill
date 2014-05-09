@@ -6,7 +6,7 @@
   "authors": [
     "zhongdeliu <zhongdeliu@googlemail.com>"
   ],
-  "description": "Array polyfill of common methods for (older) browsers (especially for IE7 and 8)",
+  "description": "Array polyfill of common methods (like map, reduce, forEach, ...) for (older) browsers (especially for IE7 and 8)",
   "keywords": [
     "array",
     "polyfill",
