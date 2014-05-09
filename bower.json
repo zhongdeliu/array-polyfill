@@ -6,12 +6,13 @@
   "authors": [
     "zhongdeliu <zhongdeliu@googlemail.com>"
   ],
-  "description": "Array polyfill for (older) browsers. Implementation taken from MDN reference",
+  "description": "Array polyfill of common methods for (older) browsers (especially for IE7 and 8)",
   "keywords": [
     "array",
     "polyfill",
     "ecmascript5",
+    "internetexplorer7",
     "internetexplorer8"
   ],
-  "license": "MIT or PublicDomain"
+  "license": "MIT"
 }
