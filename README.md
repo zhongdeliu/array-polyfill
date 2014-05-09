@@ -26,6 +26,7 @@ via Bower:
 
 
 Then include per script tag, *before* your scripts:
+
 `<script type="text/javascript" src="[path-to-file]/array-polyfill.min.js"></script>`
 
 
