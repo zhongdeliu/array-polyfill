@@ -1,10 +1,9 @@
 /*!
- * @preserve
  * Array Polyfill (every, filter, forEach, indexOf, map, reduce, some)
  * Copyright (c) <2014> Zhongde Liu <zhongdeliu@googlemail.com>
  * License: The MIT License (MIT)
  */
-/*!
+/*
  * Array Polyfill (every)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
  */
@@ -31,7 +30,7 @@ if (!Array.prototype.every)
 
     return true;
   };
-}/*!
+}/*
  * Array Polyfill (filter)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
  */
@@ -69,7 +68,7 @@ if (!Array.prototype.filter)
 
     return res;
   };
-}/*!
+}/*
  * Array Polyfill (forEach)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
  */
@@ -94,7 +93,7 @@ if (!Array.prototype.forEach)
         fun.call(thisArg, t[i], i, t);
     }
   };
-}/*!
+}/*
  * Array Polyfill (indexOf)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
  */
@@ -127,7 +126,7 @@ if (!Array.prototype.indexOf) {
 
       return -1;
     };
-  }/*!
+  }/*
  * Array Polyfill (map)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
  */
@@ -160,7 +159,7 @@ if (!Array.prototype.map)
 
     return res;
   };
-}/*!
+}/*
  * Array Polyfill (reduce)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
  */
@@ -190,7 +189,7 @@ if ( 'function' !== typeof Array.prototype.reduce ) {
     }
     return value;
   };
-}/*!
+}/*
  * Array Polyfill (some)
  * (reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
  */
