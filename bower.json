@@ -1,5 +1,5 @@
 {
-  "name": "array polyfill",
+  "name": "array-polyfill",
   "main": "array-polyfill.js",
   "version": "0.2.1",
   "homepage": "https://github.com/zhongdeliu/array-polyfill",
