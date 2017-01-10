@@ -30,6 +30,16 @@ Then include per script tag, *before* your scripts:
 `<script type="text/javascript" src="[path-to-file]/array-polyfill.min.js"></script>`
 
 
+Contributing
+---------
+
+Source of the polyfills is located in `./src`
+
+For enabling the build process perform a `npm install` after the cloned this repository.
+
+Build the output file with `gulp js`
+
+
 License
 ---------
 Combined file is distributed under MIT License

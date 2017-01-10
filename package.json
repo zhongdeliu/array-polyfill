@@ -1,0 +1,15 @@
+{
+  "name": "array-polyfill",
+  "version": "0.2.1",
+  "description": "Array polyfill of common methods (like map, reduce, forEach, ...) for (older) browsers (especially for IE7 and 8)",
+  "main": "array-polyfill.js",
+  "author": "zhongdeliu <zhongdeliu@googlemail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^1.8.8",
+    "gulp-uglify": "^2.0.0",
+    "pump": "^1.0.2"
+  }
+}
