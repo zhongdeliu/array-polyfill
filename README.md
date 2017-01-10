@@ -35,7 +35,7 @@ Contributing
 
 Source of the polyfills is located in `./src`
 
-For enabling the build process perform a `npm install` after the cloned this repository.
+For enabling the build process perform a `npm install` after you cloned this repository.
 
 Build the output file with `gulp js`
 
